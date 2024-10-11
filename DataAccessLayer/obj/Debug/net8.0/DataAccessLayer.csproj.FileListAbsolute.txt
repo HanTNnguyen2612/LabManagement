@@ -1,0 +1,15 @@
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

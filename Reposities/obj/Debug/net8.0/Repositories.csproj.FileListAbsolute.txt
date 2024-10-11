@@ -1,0 +1,17 @@
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\bin\Debug\net8.0\Repositories.deps.json
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\bin\Debug\net8.0\Repositories.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\bin\Debug\net8.0\Repositories.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\bin\Debug\net8.0\BusinessObjects.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\bin\Debug\net8.0\DataAccessLayer.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\bin\Debug\net8.0\BusinessObjects.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\Repositories.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\refint\Repositories.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\Repositories.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\Reposities\obj\Debug\net8.0\ref\Repositories.dll

@@ -1,0 +1,11 @@
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\bin\Debug\net8.0\BussinessObjects.deps.json
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\bin\Debug\net8.0\BussinessObjects.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\bin\Debug\net8.0\BussinessObjects.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.AssemblyInfo.cs
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\obj\Debug\net8.0\refint\BussinessObjects.dll
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
+D:\SE Han\PRN_Learning\ProductManagementDemo\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll
